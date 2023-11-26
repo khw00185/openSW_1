@@ -43,6 +43,8 @@ Github https://github.com/matterport/Mask_RCNN에서 git clone
     Mask_RCNN 공식 깃허브에서 제공하는 COCO weight과 balloon_dataset으로 학습시켜 mask_rcnn_ballon.h5 가중치 파일을 생성한다.
         -python samples/balloon/balloon.py train --dataset=balloon_dataset/balloon --weights=coco
 
+    ![image](https://github.com/khw00185/openSW_1/assets/42068509/f0760930-bdea-40bf-b399-a763a5877ccb)
+
 <hr>
 
 <h3>6. 결과</h3>
