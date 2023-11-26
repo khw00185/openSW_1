@@ -31,9 +31,9 @@ Github https://github.com/matterport/Mask_RCNN에서 git clone
 
 <h3>4. 결과</h3>
 
-![splash_20231126T174925](https://github.com/khw00185/openSW_1/assets/42068509/a660e07a-82d3-4c79-b5d4-81816f06b1b1)
-![splash_20231126T175058](https://github.com/khw00185/openSW_1/assets/42068509/dd00791f-18ee-4858-ad83-a7171182ebba)
-![splash_20231126T175727](https://github.com/khw00185/openSW_1/assets/42068509/2e875f99-b3c7-48e3-b21e-165cdde50408)
+![splash_20231126T140916](https://github.com/khw00185/openSW_1/assets/42068509/066b0899-4e75-41e6-8ca4-82cba7ce59d7)
+![splash_20231126T141333](https://github.com/khw00185/openSW_1/assets/42068509/530e97d2-4294-42a7-80ca-9031f0c9c8aa)
+![splash_20231126T141530](https://github.com/khw00185/openSW_1/assets/42068509/f7069fac-f942-4c23-be49-5889684e987c)
     
 
 <hr>
@@ -49,6 +49,7 @@ Github https://github.com/matterport/Mask_RCNN에서 git clone
     train해서 logs파일에 얻어진 mask_rcnn_balloon.h5파일을 루트파일에 붙여넣는다.
     아래는 결과이다.
 
-![splash_20231126T140916](https://github.com/khw00185/openSW_1/assets/42068509/066b0899-4e75-41e6-8ca4-82cba7ce59d7)
-![splash_20231126T141333](https://github.com/khw00185/openSW_1/assets/42068509/530e97d2-4294-42a7-80ca-9031f0c9c8aa)
-![splash_20231126T141530](https://github.com/khw00185/openSW_1/assets/42068509/f7069fac-f942-4c23-be49-5889684e987c)
+![splash_20231126T174925](https://github.com/khw00185/openSW_1/assets/42068509/a660e07a-82d3-4c79-b5d4-81816f06b1b1)
+![splash_20231126T175058](https://github.com/khw00185/openSW_1/assets/42068509/dd00791f-18ee-4858-ad83-a7171182ebba)
+![splash_20231126T175727](https://github.com/khw00185/openSW_1/assets/42068509/2e875f99-b3c7-48e3-b21e-165cdde50408)
+
