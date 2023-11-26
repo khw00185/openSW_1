@@ -29,7 +29,8 @@ Github https://github.com/matterport/Mask_RCNN에서 git clone
 <hr>
 
 <h3>4. 결과</h3>
-     <img width="433" alt="splash" src="https://github.com/khw0015/openSW_1/samples/balloon/splash_20231126T140916.png"> <br>
+
+     <img width="433" alt="splash" src="samples/balloon/inspect_balloon_model.ipynb"> <br>
      <img width="433" alt="splash" src="https://github.com/khw0015/openSW_1/samples/balloon/splash_20231126T141333.png"> <br>
      <img width="433" alt="splash" src="https://github.com/khw0015/openSW_1/samples/balloon/splash_20231126T141530.png"> <br>
 
@@ -45,6 +46,7 @@ Github https://github.com/matterport/Mask_RCNN에서 git clone
 <h3>6. 결과</h3>
     train해서 logs파일에 얻어진 mask_rcnn_balloon.h5파일을 루트파일에 붙여넣는다.
     아래는 결과이다.
+    
     <img width="433" alt="splash" src="https://github.com/khw0015/openSW_1/samples/balloon/splash_20231126T174925.png"> <br>
      <img width="433" alt="splash" src="https://github.com/khw0015/openSW_1/samples/balloon/splash_20231126T175058.png"> <br>
      <img width="433" alt="splash" src="https://github.com/khw0015/openSW_1/samples/balloon/splash_20231126T175727.png"> <br>
