@@ -48,7 +48,7 @@ Github https://github.com/matterport/Mask_RCNN에서 git clone
 
 <h3>6. 결과</h3>
     train해서 logs파일에 얻어진 mask_rcnn_balloon.h5파일을 루트파일에 붙여넣는다.
-    아래는 결과이다.
+    아래는 결과이다. epoch이 낮아 정확한 탐지가 이루어지지 않는 모습을 확인 할 수 있었다.
 
 ![splash_20231126T174925](https://github.com/khw00185/openSW_1/assets/42068509/a660e07a-82d3-4c79-b5d4-81816f06b1b1)
 ![splash_20231126T175058](https://github.com/khw00185/openSW_1/assets/42068509/dd00791f-18ee-4858-ad83-a7171182ebba)
