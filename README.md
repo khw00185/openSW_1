@@ -30,7 +30,7 @@ Github https://github.com/matterport/Mask_RCNN에서 git clone
 
 <h3>4. 결과</h3>
 
-     <img width="433" alt="splash" src="samples/balloon/inspect_balloon_model.ipynb"> <br>
+     <img width="433" alt="splash" src="samples/balloon/splash_20231126T140916.png"> <br>
      <img width="433" alt="splash" src="https://github.com/khw0015/openSW_1/samples/balloon/splash_20231126T141333.png"> <br>
      <img width="433" alt="splash" src="https://github.com/khw0015/openSW_1/samples/balloon/splash_20231126T141530.png"> <br>
 
